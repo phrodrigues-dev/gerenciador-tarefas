@@ -50,3 +50,5 @@ python main.py
 - prioridade e data limite nas tarefas
 - editar tarefa
 - filtrar pendentes e concluídas.
+
+![Programa rodando](imagens/terminal.png)
