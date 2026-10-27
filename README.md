@@ -2,6 +2,10 @@
 
 É um pequeno gerenciador que lista as tarefas adicionadas pelo usuário, as salva no banco MySQL e  permite marcar tarefas como concluídas.
 
+## Demonstração
+
+![Programa rodando](imagens/terminal.png)
+
 ## Funcionalidades
 
 - Listar: Lista todas as tarefas adicionadas pelo usuário.
@@ -51,4 +55,3 @@ python main.py
 - editar tarefa
 - filtrar pendentes e concluídas.
 
-![Programa rodando](imagens/terminal.png)
