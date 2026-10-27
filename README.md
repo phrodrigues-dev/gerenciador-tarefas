@@ -40,7 +40,7 @@ CREATE TABLE tarefas (
 
 ## Como executar
 
-Para utilizar basta ter o Python instalado e rodar:
+Com o banco criado e o .env configurado, rode:
 ```
 python main.py
 ```
